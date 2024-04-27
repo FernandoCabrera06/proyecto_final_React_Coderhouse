@@ -1,0 +1,13 @@
+.Form {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.Label,
+.Button {
+  margin-top: 20px;
+  font-weight: 600;
+}
+.Input {
+  width: 20rem;
+}

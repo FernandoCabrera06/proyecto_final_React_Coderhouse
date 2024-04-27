@@ -1,0 +1,33 @@
+.CardItem {
+  width: 300px;
+  margin: 15px;
+  padding: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3);
+  transition: 0.3s;
+}
+
+/* On mouse-over, add a deeper shadow */
+.CardItem:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.3);
+}
+
+.ItemImg {
+  width: 100px;
+}
+
+.Option {
+  color: #fff;
+  padding: 8px;
+  border-radius: 5px;
+  text-decoration: none;
+  background-color: #003fa1;
+}
+
+.Option:hover {
+  background-color: #0557db;
+}
+
+.SpanSinStock {
+  color: red;
+  font-weight: 700;
+}
