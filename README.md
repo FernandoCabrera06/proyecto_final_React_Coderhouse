@@ -1,8 +1,36 @@
-# React + Vite
+<h1> Proyecto final curso "React" - Coderhouse </h1>
+<br>
+<p align="center"><img width="15%" src="https://raw.githubusercontent.com/FernandoCabrera06/proyecto_final_desarrollo_web_Coderhouse/main/assets/images/logo.png"></p>
+<h2 align="center">Rocco - Alimentos para mascotas </h2>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Ecommerce de alimentos para mascotas desarrollado en React con datos en Firebase. Tiene funciones de manejo de carrito de compras agregando/quitando productos, manejo de stock y proceso de checkout.
 
-Currently, two official plugins are available:
+## 🖥️ Profesor: Julio Avantt
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Instalación
+
+### Se requiere tener instalado [Node.js](https://nodejs.org/) y [React.js](https://es.react.dev/) v18 para correr el proyecto.
+
+### 1. Clonar repositorio
+
+```
+git clone https://github.com/FernandoCabrera06/proyecto_final_React_Coderhouse.git
+
+```
+
+### 2. Instalar dependencias
+
+```
+cd proyecto_final_React_Coderhouse
+npm install
+```
+
+### 3. Levantar proyecto
+
+```
+npm run dev
+
+```
+
+Por defecto, en el navegador ir a:
+[http://localhost:5173/](http://localhost:5173/)
