@@ -7,6 +7,9 @@
 
 ## 🖥️ Profesor: Julio Avantt
 
+
+### ✨ Desplegado en Netlify: [https://proyecto-final-react-coderhouse.netlify.app](https://proyecto-final-react-coderhouse.netlify.app)
+
 ## Instalación
 
 ### Se requiere tener instalado [Node.js](https://nodejs.org/) y [React.js](https://es.react.dev/) v18 para correr el proyecto.
@@ -34,3 +37,5 @@ npm run dev
 
 Por defecto, en el navegador ir a:
 [http://localhost:5173/](http://localhost:5173/)
+
+
